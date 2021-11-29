@@ -2,7 +2,7 @@ Review trials project
 
 > this is my third microverse project
 
-<img src="./assets/imgs/screenshot.png">
+<img src="./screenshot.png">
 
 ## Project description:
  
@@ -18,12 +18,12 @@ html & css
 
 ## Live Demo
 
-[Live Demo Link](https://lisandroseia.github.io/Portfolio/)
+[Live Demo Link](https://lisandroseia.github.io/Review-Myself/)
 
 ## getting started
 **Set up**
 
-This project is about commenting my own [pull request]()
+This project is about commenting my own [pull request](https://github.com/lisandroseia/Review-Myself/pull/1/files), so you have to see my coments in the given link
 
 ## Authors
 
@@ -36,7 +36,7 @@ This project is about commenting my own [pull request]()
 
 Contributions, issues, and feature requests are welcome!
 
-Feel fre to check the [issues](https://github.com/lisandroseia/Portfolio/issues) page
+Feel fre to check the [issues](https://github.com/lisandroseia/Review-Myself/issues) page
 
 ## Show your support
 
