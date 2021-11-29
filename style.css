@@ -1,0 +1,81 @@
+@import url("https://fonts.googleapis.com/css2?family=Zen+Old+Mincho&display=swap");
+
+body {
+  font-family: "Zen Old Mincho", serif;
+}
+
+#container {
+  background: linear-gradient(0deg, #d5eaf5, #f5ddda);
+  background-attachment: fixed;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  align-content: center;
+}
+
+#survey-form {
+  background: linear-gradient(0deg, #7378f9, #8286fa);
+  border: 0.1rem solid black;
+  border-radius: 5%;
+  padding: 3%;
+  display: flex;
+  flex-direction: column;
+  width: 35%;
+}
+
+.form-control {
+  padding: 2% 0%;
+  display: flex;
+  flex-direction: column;
+}
+
+label,
+p {
+  font-size: 1.2rem;
+  font: bolder;
+}
+
+#name,
+#email,
+#number,
+#dropdown {
+  width: 80%;
+}
+
+h2 {
+  font-size: 1.4rem;
+}
+
+textarea {
+  height: 8rem;
+}
+
+button {
+  font-weight: bold;
+  color: #b9b6c1;
+  font-size: 1.125rem;
+  background-color: #7968a2;
+  border: 0.0625rem solid #ffffff;
+  border-radius: 0.3125rem;
+  padding: 0.2rem 0.5rem;
+  margin: 1.25rem 0px 0px 1.25rem;
+  height: 30%;
+}
+
+button:hover {
+  cursor: pointer;
+  color: white;
+  box-shadow: 0.0625rem 0.125rem 1.25rem 0.125rem rgba(164, 142, 212, 0.54);
+  -webkit-box-shadow: 0.0625rem 0.125rem 1.25rem 0.125rem
+    rgba(164, 142, 212, 0.54);
+  -moz-box-shadow: 0.0625rem 0.125rem 1.25rem 0.125rem rgba(164, 142, 212, 0.54);
+}
+
+h1,
+#description {
+  color: #8286fa;
+  text-align: center;
+}
+h1 {
+  font-size: 3rem;
+}
