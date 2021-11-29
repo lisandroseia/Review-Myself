@@ -65,10 +65,8 @@ button {
 button:hover {
   cursor: pointer;
   color: white;
-  box-shadow: 
-  0.0625rem 0.125rem 1.25rem 0.125rem rgba(164, 142, 212, 0.54);
-  -webkit-box-shadow: 0.0625rem 0.125rem 1.25rem 0.125rem
-    rgba(164, 142, 212, 0.54);
+  box-shadow: 0.0625rem 0.125rem 1.25rem 0.125rem rgba(164, 142, 212, 0.54);
+  -webkit-box-shadow: 0.0625rem 0.125rem 1.25rem 0.125rem rgba(164, 142, 212, 0.54);
   -moz-box-shadow: 0.0625rem 0.125rem 1.25rem 0.125rem rgba(164, 142, 212, 0.54);
 }
 
